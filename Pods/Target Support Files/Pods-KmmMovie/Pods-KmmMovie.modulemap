@@ -1,0 +1,6 @@
+framework module Pods_KmmMovie {
+  umbrella header "Pods-KmmMovie-umbrella.h"
+
+  export *
+  module * { export * }
+}
